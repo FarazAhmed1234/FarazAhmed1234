@@ -73,12 +73,7 @@
 
 <div align="center">
   
-  <a href="https://github.com/farazahmed1234">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=farazahmed1234&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farazahmed1234&layout=compact&langs_count=8&theme=radical&hide=html,css" alt="Top Languages"/>
-  </a>
-  
-  <br/>
+  <
   
   <a href="https://github.com/farazahmed1234">
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=farazahmed1234&theme=radical" alt="GitHub Streak"/>
