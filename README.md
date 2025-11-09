@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello, I'm Faraz Ahmed</h1>
-<h3 align="center">🚀 Full Stack Developer | React & Next.js Specialist | CS Student</h3>
+<h3 align="center">Full Stack Developer | React & Next.js Specialist | CS Student</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -89,13 +89,7 @@
 
 ---
 
-## 📈 Contribution Graph
 
-<p align="center">
-  <a href="https://github.com/farazahmed1234">
-    <img src="https://activity-graph.herokuapp.com/graph?username=farazahmed1234&theme=react-dark&area=true&hide_border=true" alt="Contribution Graph"/>
-  </a>
-</p>
 
 ---
 
@@ -128,6 +122,5 @@
   
   ⭐ **Feel free to explore my repositories and don't forget to star if you find something interesting!**
   
-  ![Snake Animation](https://github.com/farazahmed1234/farazahmed1234/blob/output/github-contribution-grid-snake.svg)
 
 </div>
