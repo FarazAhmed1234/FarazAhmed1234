@@ -73,7 +73,6 @@
 
 <div align="center">
   
-  <
   
   <a href="https://github.com/farazahmed1234">
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=farazahmed1234&theme=radical" alt="GitHub Streak"/>
